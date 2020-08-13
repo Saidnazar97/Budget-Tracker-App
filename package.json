@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ethanlloyd21/Budget-Tracker.git"
+    "url": ""
   },
-  "author": "Lloyd Marcelino",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ethanlloyd21/Budget-Tracker/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Ethanlloyd21/Budget-Tracker#readme"
+  "homepage": ""
 }
